@@ -45,7 +45,7 @@ Copy code
 }
 Email Verification:
 
-GET /api/verify-email/<token>/
+GET /api/verify_email/<token>/
 
 User Login:
 
