@@ -13,7 +13,9 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/SoulAbi/User-Authentication-with-Social-Platform-Integration-and-Confirmation-Email.git
+
 cd your-repo
+
 Install dependencies:
 
 bash
